@@ -1,0 +1,55 @@
+.terre {
+  margin-top: 20px
+}
+.corps {
+  text-align: left;;
+}
+.container {
+  display: flex; /* or inline-flex */;
+   flex-direction: row;
+}
+#center {
+  margin-left: 40px;
+    width: 700px;
+}
+#left{
+  background-color: #f6f6f6;
+    width: 400px;
+}
+#right{
+  width: 400px;
+}
+.logowiki {
+  height: 80px;
+  width: auto;
+  margin-left: 60px
+}
+.sommaire1 {
+  color: #4571b7;
+  margin-right: 20px;
+}
+#griser {
+  color: grey;
+}
+#gris {
+  color: grey;
+}
+#sommaire {
+  color: grey;
+  font-weight:400;
+}
+.cadre {
+  border: 1px solid darkgrey;
+display: inline-block;
+padding:10px;
+}
+ul{
+  list-style-type: none;
+
+}
+.cadre ul{
+  padding-left: 0px;
+}
+.earvin {
+  background-color: green;
+}
